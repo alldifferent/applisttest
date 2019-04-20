@@ -26,7 +26,7 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@mipmap/ic_launcher"
+                android:src="@drawable/arrow"
                 android:layout_gravity="center"
                 android:layout_marginRight="20dp"
                 android:layout_marginLeft="20dp"
@@ -43,7 +43,7 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@mipmap/ic_launcher"
+                android:src="@drawable/mic"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:layout_gravity="center"
